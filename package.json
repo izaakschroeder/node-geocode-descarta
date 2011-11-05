@@ -1,0 +1,11 @@
+{
+	"name": "geocode-decarta",
+	"version": "0.0.1",
+	"description": "A simple client for DeCarta's geocoding service.",
+	"author": "Izaak Schroeder",
+	"engine": "node >= 0.4.10",
+	"main": "geocode.js",
+	"dependencies": {
+		"sax": "0.0.1"
+	}
+}
